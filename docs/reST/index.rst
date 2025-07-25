@@ -1,5 +1,5 @@
-Pygame Front Page
-=================
+free fire front page
+;;;;;;;;;;;;;;;;;;;
 
 .. toctree::
    :maxdepth: 2
